@@ -1,0 +1,13 @@
+Twitter Sentiment Analyser - V.1.0.0
+	This is a python based Program that fetches Tweets Directly from twitter and Analyses them in Three fields :
+	1) Positivity.   						
+        2) Negitivity.  
+	3)Neutrality.
+*Usage : Just Enter Topic Under SEARCH Box (Text Expected)
+and hit Fetch Tweets.
+
+**IT IS IN BETA VERSION AND NEEDS MORE WORK ON GUI AND VERBAL PROCESSING.
+
+Brought To You By :
+Yadnesh Mulay.
+
