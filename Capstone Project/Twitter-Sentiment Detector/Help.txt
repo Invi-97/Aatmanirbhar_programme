@@ -3,11 +3,20 @@ Twitter Sentiment Analyser - V.1.0.0
 	1) Positivity.   						
         2) Negitivity.  
 	3)Neutrality.
-*Usage : Just Enter Topic Under SEARCH Box (Text Expected)
-and hit Fetch Tweets.
+*Usage : Just Enter Topic Under SEARCH Box (Text Expected) and hit Fetch Tweets.
 
 **IT IS IN BETA VERSION AND NEEDS MORE WORK ON GUI AND VERBAL PROCESSING.
 
 Brought To You By :
 Yadnesh Mulay.
 
+
+
+Run the Run.py file to start the application
+
+note :- Make sure to replace your 
+	consumer_key = ''
+    	consumer_secret = ''
+    	access_token = ''
+    	access_token_secret=''
+with your twitter developers account credentials 
